@@ -1,5 +1,12 @@
 # Freestyle Projects And Pictures  
 
+
+![](https://github.com/VitRod/FreestyleProjectsAndPictures/blob/main/ProjectPics/19.png)
+![](https://github.com/VitRod/FreestyleProjectsAndPictures/blob/main/ProjectPics/18.png)
+![](https://github.com/VitRod/FreestyleProjectsAndPictures/blob/main/ProjectPics/17.png)
+![](https://github.com/VitRod/FreestyleProjectsAndPictures/blob/main/ProjectPics/16.png)
+
+
 ![](https://github.com/VitRod/FreestyleProjectsAndPictures/blob/main/ProjectPics/15.png)
 ![](https://github.com/VitRod/FreestyleProjectsAndPictures/blob/main/ProjectPics/14.png)
 
